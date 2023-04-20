@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Get the absolute path of the directory where this script is located
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+
+# Call main.py with an absolute path
+python3 "${SCRIPT_DIR}/main.py" "$@"
