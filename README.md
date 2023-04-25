@@ -2,6 +2,8 @@
 
 A command line tool using AI to harness the power of the CLI with natural language
 
+![LinuxGPT Icon](https://raw.githubusercontent.com/Uglesoft/linuxgpt/main/ICON.jpg)
+
 ## Quickstart
 
 ```bash
