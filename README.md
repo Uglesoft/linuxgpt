@@ -1,6 +1,6 @@
 # LinuxGPT
 
-A command line tool using AI to harness the power of the cli with natural language
+A command line tool using AI to harness the power of the CLI with natural language
 
 ## Quickstart
 
