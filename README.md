@@ -2,7 +2,7 @@
 
 A command line tool using AI to harness the power of the CLI with natural language
 
-![LinuxGPT Icon](https://raw.githubusercontent.com/Uglesoft/linuxgpt/main/ICON.jpg)
+![LinuxGPT Icon](https://raw.githubusercontent.com/Uglesoft/linuxgpt/main/ICON.png)
 
 ## Quickstart
 
@@ -64,7 +64,7 @@ drwxrwxr-x 7 chris chris   4096 Apr 20 05:56 ..
 -rw-rw-r-- 1 chris chris     71 Apr 20 05:46 .env
 drwxrwxr-x 8 chris chris   4096 Apr 20 06:18 .git
 -rw-rw-r-- 1 chris chris      4 Apr 20 05:54 .gitignore
--rw-rw-r-- 1 chris chris 166530 Apr 20 05:13 ICON.jpg
+-rw-rw-r-- 1 chris chris 166530 Apr 20 05:13 ICON.png
 -rwxrwxr-x 1 chris chris    215 Apr 20 05:51 linuxgpt
 -rw-rw-r-- 1 chris chris   3221 Apr 20 05:46 main.py
 -rw-rw-r-- 1 chris chris   2025 Apr 23 11:03 README.md
