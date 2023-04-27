@@ -71,6 +71,15 @@ drwxrwxr-x 8 chris chris   4096 Apr 20 06:18 .git
 -r--r--r-- 1 chris chris      0 Apr 23 11:04 rose.txt
 ```
 
-## Authors
+## Support
 
-Christian J Kesler, Uglesoft
+Reach out to uglesoft at `uglesoft@gmail.com`
+
+## Author(s)
+
+Christian J Kesler, Uglesoft Openware &copy;
+ 
+### Acknowledgements
+
+As always, I have ChatGPT to thank for helping me walk through my thought process and teach me new things as I go.  
+
